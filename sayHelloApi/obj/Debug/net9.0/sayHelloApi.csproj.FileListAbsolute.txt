@@ -145,3 +145,4 @@ C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC2\sayHello
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC2\sayHelloApi\obj\Debug\net9.0\sayHelloApi.pdb
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC2\sayHelloApi\obj\Debug\net9.0\sayHelloApi.genruntimeconfig.cache
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC2\sayHelloApi\obj\Debug\net9.0\ref\sayHelloApi.dll
+C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC2\sayHelloApi\obj\Debug\net9.0\sayHelloApi.sourcelink.json
