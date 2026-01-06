@@ -11,7 +11,7 @@ namespace sayHelloApi.Controllers
     public class SayHelloController : ControllerBase
     {
         [HttpPost]
-        [Route("InputName")]
+        [Route("GreetUser")]
         public string SayHello(string name)
         {
             return $"Hello, {name}!";
